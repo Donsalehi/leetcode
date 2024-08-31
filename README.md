@@ -1,0 +1,2 @@
+# leetcode
+Leetcode weekly exercises
